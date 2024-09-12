@@ -1022,3 +1022,16 @@ button{
 .bolder{
   font-weight: 600;
 }
+.t_proy{
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 20px;
+  letter-spacing: 0.2rem;
+}
+.img_proy{
+  align-items: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
