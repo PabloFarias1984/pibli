@@ -168,7 +168,7 @@ button{
 }
 
 .nav__logo-img{
-  width: 1.25rem;
+  width: 2.9rem;
 }
 
 .nav__link,
@@ -663,7 +663,7 @@ button{
 }
 
 .footer__logo-img{
-  width: 20px;
+  width: 3.2rem;
 }
 
 .footer__description{
@@ -1015,4 +1015,10 @@ button{
 
 .pad {
   padding-left: 4rem;
+}
+
+/*=============== MIOS ===============*/
+
+.bolder{
+  font-weight: 600;
 }
